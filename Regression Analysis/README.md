@@ -4,3 +4,5 @@
 2. Multi factor models - FAMA FRENCH
 
 3. Logistic Regression for credit analysis
+
+4. LSTM
