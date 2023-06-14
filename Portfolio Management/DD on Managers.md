@@ -19,7 +19,7 @@
 
 4. exposure (region, sector, industry, and market cap)
 
-5. Systematic to active, low tracking error to higher alpha
+5. systematic to active, low tracking error to higher alpha
 
 6. passive, esg tax managed, active core, factor tilt tax managed, active satellite, dynamic equity
 
