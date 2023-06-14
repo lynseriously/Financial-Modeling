@@ -23,18 +23,18 @@
 
 6. passive, esg tax managed, active core, factor tilt tax managed, active satellite, dynamic equity
 
-Vehicles (SMA, Mutual funds, LLC)
 
-       US Equity    Non US/Global/EM
-        Large Cap
+      Vehicles (SMA, Mutual funds, LLC)
+      US Equity, Non US/Global/EM
+      Large Cap
 Value
 Core
 Growth
 ESG
 Thematic
 Income Oriented
-       All Cap
-       Small Cap
+      All Cap
+      Small Cap
 
 
 
