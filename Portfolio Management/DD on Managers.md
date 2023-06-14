@@ -1,13 +1,13 @@
 **Manager Selection**
 
 **Methods:**
-1. Operation DD: Legal, Reputational, Operation. Compliance, Accounting, Technology
+1. _Operation DD_: Legal, Reputational, Operation. Compliance, Accounting, Technology
    
-2. Manager Research: Team, investment process, portfolio construction and risk management, alpha decomposition/value added, leadership and culture, organizational statbility, client orientation
+2. _Manager Research_: Team, investment process, portfolio construction and risk management, alpha decomposition/value added, leadership and culture, organizational statbility, client orientation
 
-3. On going research: Data review, questionaires, dialogue, quant and qualitative analysis
+3. _On going research_: Data review, questionaires, dialogue, quant and qualitative analysis
 
-4. On watch: changes in organization, key personnel turnover, asset level changes, performance, style drift, regulatory, portfolio liquidity (additional meeting and info gather needed for take off watch)
+4. _On watch_: changes in organization, key personnel turnover, asset level changes, performance, style drift, regulatory, portfolio liquidity (additional meeting and info gather needed for take off watch)
 
 
 **Balanced manager universe**
